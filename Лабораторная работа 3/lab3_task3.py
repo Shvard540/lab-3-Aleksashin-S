@@ -1,6 +1,3 @@
-from email.policy import default
-
-
 def count_letters(text, count=0):
     dct = dict()
     text = text.lower()
